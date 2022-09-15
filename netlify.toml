@@ -1,9 +1,10 @@
 [[redirects]]
-  from = "https://dsykx.netlify.app"
-  to = "https://dsykx.com"
+  from = "https://go.dsykx.pages.dev"
+  to = "https://go.dsykx.com"
   status = 301
   force = true
 [[redirects]]
   from = "/*"
   to = "index.html"
   status = 404
+  
